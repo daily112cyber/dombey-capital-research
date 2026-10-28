@@ -7,6 +7,7 @@ Research publication: https://dombeycap.substack.com/
 LinkedIn: https://www.linkedin.com/company/dombey/
 
 Core resources:
+
 - The Phoenix Report — weekly flagship special-situations research
 - Daily Phoenix Screener — trading-morning situational awareness in DombeyAI
 - Biweekly Catalyst Briefing — forthcoming corporate and market events
